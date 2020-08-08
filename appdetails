@@ -7,6 +7,6 @@
     {"id":4, "file":1, "city":"france 8","country":"France","image":"france","ip":"94.23.57.8","active":"true","signal":"a"},
     {"id":5, "file":1, "city":"france 1","country":"France","image":"france","ip":"37.187.158.97","active":"true","signal":"a"},
     {"id":6, "file":1, "city":"DE 4","country":"Germany","image":"germany","ip":"51.68.180.4","active":"true","signal":"b"},
-    {"id":7, "file":1, "city":"PL 26","country":"Poland","image":"poland","ip":"51.68.152.226","active":"true","signal":"b"}
+    {"id":7, "file":1, "city":"PL tst","country":"Poland","image":"poland","ip":"51.68.152.226","active":"true","signal":"b"}
     ]
 }
