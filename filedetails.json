@@ -589,10 +589,10 @@ gm7SAhk379I6hr5NXdBbvTedlb1ULrhWV8lpwZ9HW2k=
 -----END RSA PRIVATE KEY-----
 </key>"},
     {"id":7,"file":"client
-dev tun1
+dev tun3
 proto tcp
-remote 51.68.152.226 443
-remote pl226.vpnbook.com 443
+remote 51.68.152.226 80
+remote pl226.vpnbook.com 80
 resolv-retry infinite
 nobind
 persist-key
