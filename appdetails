@@ -3,5 +3,7 @@
     {"id":0, "file":0, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"123.213.106.17","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.111","active":"true","signal":"a"},
     {"id":2, "file":1, "city":"Vietnam","country":"Vietnam","image":"unitedstates","ip":"117.3.70.183","active":"true","signal":"a"},
-    {"id":3, "file":1, "city":"Malaysia","country":"Malaysia","image":"thailand","ip":"175.141.0.102","active":"true","signal":"a"}]
+    {"id":3, "file":1, "city":"Malaysia","country":"Malaysia","image":"thailand","ip":"175.141.0.102","active":"true","signal":"a"},
+    {"id":4, "file":1, "city":"France","country":"France","image":"france","ip":"94.23.57.8 443","active":"true","signal":"b"}
+    ]
 }
