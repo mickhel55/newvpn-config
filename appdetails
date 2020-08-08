@@ -1,1 +1,7 @@
-{"ads":"false","blocked":[{"id":2,"app":"com.abc.callrecorder"}],"free":[{"id":15,"file":0,"city":"NewYork","country":"USA","image":"unitedstates","ip":"45.63.123.69","active":"true","signal":"a"},{"id":16,"file":1,"city":"Canada","country":"Canada","image":"canada","ip":"219.100.37.156","active":"true","signal":"b"},{"id":17,"file":2,"city":"Taiwan","country":"Taiwan","image":"taiwan","ip":"114.38.71.154","active":"true","signal":"a"},{"id":18,"file":3,"city":"Seoul","country":"South Korea","image":"southkorea","ip":"58.79.91.104","active":"true","signal":"c"}]}
+{"ads":"true","blocked":[{"id":2,"app":"com.abc.callrecorder"}],
+  "free":[
+    {"id":0, "file":0, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"123.213.106.17","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Tokyo","country":"Japan","image":"luxemburg","ip":"219.100.37.111","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Vietnam","country":"Vietnam","image":"unitedstates","ip":"117.3.70.183","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"Malaysia","country":"Malaysia","image":"thailand","ip":"175.141.0.102","active":"true","signal":"a"}]
+}
