@@ -1,9 +1,12 @@
 {"ads":"true","blocked":[{"id":2,"app":"com.abc.callrecorder"}],
   "free":[
-    {"id":0, "file":0, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"123.213.106.17","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.111","active":"true","signal":"a"},
-    {"id":2, "file":1, "city":"Vietnam","country":"Vietnam","image":"unitedstates","ip":"117.3.70.183","active":"true","signal":"a"},
-    {"id":3, "file":1, "city":"Malaysia","country":"Malaysia","image":"thailand","ip":"175.141.0.102","active":"true","signal":"a"},
-    {"id":4, "file":1, "city":"France","country":"France","image":"france","ip":"94.23.57.8 443","active":"true","signal":"b"}
+    {"id":0, "file":0, "city":"vpnbook us2","country":"United States","image":"unitedstates","ip":"198.7.58.147","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"vpnbook us1","country":"United States","image":"unitedstates","ip":"198.7.62.204","active":"true","signal":"a"},
+    {"id":2, "file":1, "city":"canada 1","country":"Canada","image":"canada","ip":"192.99.37.222","active":"true","signal":"b"},
+    {"id":3, "file":1, "city":"canda 2","country":"Candada","image":"canada","ip":"198.27.69.198","active":"true","signal":"a"},
+    {"id":4, "file":1, "city":"france 8","country":"France","image":"france","ip":"94.23.57.8","active":"true","signal":"a"},
+    {"id":5, "file":1, "city":"france 1","country":"France","image":"france","ip":"37.187.158.97","active":"true","signal":"a"},
+    {"id":6, "file":1, "city":"DE 4","country":"Germany","image":"germany","ip":"51.68.180.4","active":"true","signal":"b"},
+    {"id":7, "file":1, "city":"PL 26","country":"Poland","image":"poland","ip":"51.68.152.226","active":"true","signal":"b"}
     ]
 }
