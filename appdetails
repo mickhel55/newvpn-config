@@ -4,8 +4,8 @@
     {"id":0, "app":"com.android.game"}
   ],
   "free":[
-  {"id":0,"file":0,"city":"vpnbook","country":"United States","image":"unitedstates","ip":"45.63.123.69","active":"true","signal":"a"},
-  {"id":0,"file":0,"city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.156","active":"true","signal":"a"},
+  {"id":0,"file":0,"city":"vpngate","country":"United States","image":"unitedstates","ip":"45.63.123.69","active":"true","signal":"a"},
+  {"id":1,"file":0,"city":"vpnbook","country":"France","image":"france","ip":"37.187.158.97","active":"true","signal":"a"},
   {"id":0,"file":0,"city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.156","active":"true","signal":"a"},
   {"id":0,"file":0,"city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.156","active":"true","signal":"a"}     
   ]
