@@ -4,7 +4,7 @@
 dev tun
 proto udp
 remote canada.fathani.xyz 1194
-;remote my-server-2 1194
+remote 3.96.250.104 1194
 ;remote-random
 resolv-retry infinite
 nobind
